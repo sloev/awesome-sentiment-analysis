@@ -90,6 +90,9 @@ _**Caveats**: A key problem in sentiment analysis is its sensitivity to the doma
 [ASUM](http://uilab.kaist.ac.kr/research/WSDM11/): Unsupervised Machine Learning, Latent Dirichlet Allocation. [[paper]](http://www.cs.cmu.edu/~yohanj/research/papers/WSDM11.pdf)
 
 ### Python
+
+[spacy-onnx-sentiment-english](https://github.com/sloev/spacy_onnx_sentiment_english) English sentiment model for spacy using onnx
+
 [nltk](http://www.nltk.org/): [VADER](https://github.com/cjhutto/vaderSentiment) sentiment analysis tool, Lexical, Dictionary-based, Rule-based. [[paper]](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
 
 [vivekn/sentiment](https://github.com/vivekn/sentiment): Supervised Machine Learning, Naive Bayes Classifier. [[paper]](https://arxiv.org/abs/1305.6143)
